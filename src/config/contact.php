@@ -25,7 +25,7 @@ return [
     */
 
     'controllers' => [
-        'namespace' => 'RICADESIGN\\Laravel-contact\\Http\\Controllers',
+        'namespace' => 'Ricadesign\\Contact\\Http\\Controllers',
     ],
 
 ];
